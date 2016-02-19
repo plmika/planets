@@ -6,3 +6,5 @@ w l7
 w l9
 w l10
 
+A w linii tez cos dopisze
+
