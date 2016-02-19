@@ -1,0 +1,11 @@
+to jest linia 1
+w l2
+w l3
+w l4
+w l5
+w l6
+w l7
+w l8
+w l9
+w l10
+
